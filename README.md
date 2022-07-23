@@ -1,2 +1,2 @@
 # prediccion-de-ventas
-Prediciendo precios
+Predicting Prices
